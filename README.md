@@ -35,5 +35,5 @@ items should match the key in db.json.
 ✅ Now both:
 http://localhost:3000 → React frontend
 
-http://localhost:3001 → JSON backend (API)
+http://localhost:5001 → JSON backend (API)
 
